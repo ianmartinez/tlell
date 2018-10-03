@@ -20,6 +20,17 @@
    version="1.1">
   <defs
      id="defs6433">
+    <linearGradient
+       id="linearGradient938">
+      <stop
+         style="stop-color:#e92e2e;stop-opacity:1"
+         offset="0"
+         id="stop934" />
+      <stop
+         style="stop-color:#9a0606;stop-opacity:1"
+         offset="1.0000000"
+         id="stop936" />
+    </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 24 : 1"
@@ -274,16 +285,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1322"
-       id="linearGradient4975"
-       x1="34.892849"
-       y1="36.422989"
-       x2="45.918697"
-       y2="48.547989"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.65365448,0,0,0.65365448,-16.510692,11.806495)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient7179"
        id="linearGradient7185"
        x1="13.435029"
@@ -337,16 +338,50 @@
        y1="45.264122"
        x2="45.380436"
        y2="50.939667" />
-    <linearGradient
+    <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient7916"
-       id="linearGradient7922"
-       x1="16.874998"
-       y1="22.851799"
-       x2="27.900846"
-       y2="34.976799"
+       xlink:href="#linearGradient938"
+       id="radialGradient1441"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.65365448,0,0,0.65365448,-4.7332438,20.677364)" />
+       gradientTransform="matrix(0,-0.46587128,0.5637658,0,-1.1611048,16.360208)"
+       cx="-37.698845"
+       cy="22.759809"
+       fx="-37.698845"
+       fy="22.759809"
+       r="16.9562" />
+    <linearGradient
+       id="linearGradient2304">
+      <stop
+         id="stop2306"
+         offset="0"
+         style="stop-color:#73d216" />
+      <stop
+         id="stop2308"
+         offset="1.0000000"
+         style="stop-color:#4e9a06" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2304"
+       id="radialGradient1441-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.46587128,0.5637658,0,-2.7143838,-0.19883166)"
+       cx="-26.694681"
+       cy="21.819117"
+       fx="-26.694681"
+       fy="21.819117"
+       r="16.9562" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2091"
+       id="radialGradient2097-1"
+       cx="23.070683"
+       cy="35.127438"
+       fx="23.070683"
+       fy="35.127438"
+       r="10.31934"
+       gradientTransform="matrix(0.9308417,0.01642696,-0.00835897,0.27732106,-10.067759,30.106008)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -355,9 +390,9 @@
      borderopacity="0.10980392"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="23.434159"
-     inkscape:cy="12.318256"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-168.75159"
+     inkscape:cy="-33.889903"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -408,18 +443,28 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-26)">
+     transform="translate(0,-26)"
+     style="opacity:1">
     <path
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.90107727px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#75a1d0;fill-opacity:1;stroke:#3465a4;stroke-width:0.65365469px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 13.251639,39.21466 7.921697,0.07587 v -4.572524 h -7.915861 l -4.5891374,-0.01168 -7.81664601,0.01751 -0.02335,4.555017 7.84582701,0.01167 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.90107727px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:url(#radialGradient1441);fill-opacity:1;stroke:#730d04;stroke-width:0.55262077;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       d="m 13.2508,39.216232 7.921697,0.07587 v -4.572524 h -7.915861 l -4.5891373,-0.01168 -7.81664598,0.01751 -0.02335,4.555017 7.84582698,0.01167 z"
        id="text1314"
        sodipodi:nodetypes="ccccccccc"
        inkscape:connector-curvature="0" />
     <path
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.90107727px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.40860219;fill:url(#linearGradient4975);fill-opacity:1;stroke:url(#linearGradient7922);stroke-width:0.65365487px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 20.484373,38.642478 0.0058,-3.274027 -18.9962264,0.01167 -0.01751,3.250683 z"
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="-0.6180855"
+       inkscape:original="M 21.173828 34.71875 L 0.84765625 34.734375 L 0.828125 39.279297 L 21.167969 39.294922 L 21.173828 34.71875 z "
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.90107727px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.361;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.67589515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
        id="path7076"
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0" />
+       d="m 20.556641,35.335938 -19.0937504,0.01562 -0.015625,3.310547 19.1035154,0.01367 z"
+       transform="translate(-8.388652e-4,0.00157103)" />
+    <ellipse
+       style="opacity:0.10824741;fill:url(#radialGradient2097-1);fill-opacity:1;stroke:none;stroke-width:3.44844007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1361"
+       cx="11"
+       cy="40.17202"
+       rx="10.500159"
+       ry="3.0128891" />
   </g>
 </svg>
